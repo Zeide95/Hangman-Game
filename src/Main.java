@@ -80,7 +80,7 @@ class Game {
         }
 
         if (wrong == 6) {
-            System.out.println("YOU LOST!, maximum limit of incorrect guesses reached.");
+            System.out.println("YOU LOST! Maximum limit of incorrect guesses reached.");
             System.out.print("The word was: " + word);
         } else {
             System.out.print("The word is: " + word1 + "\n Well Played, you did it!!");

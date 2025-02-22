@@ -24,3 +24,10 @@ The Hangman game is a simple word-guessing game where players attempt to guess a
 ### File Usage
 - **Input File (`words.txt`)**: Contains a list of words from which a random word is selected for the game.
 - **No Output Files**: The game does not generate any output files, as all interactions occur in the console.
+
+## Example output screenshots
+![1](https://github.com/user-attachments/assets/18fe07f9-3cd7-4070-9fa1-d3a2f12d6c9c)
+![2](https://github.com/user-attachments/assets/5e2a89f2-2d15-4a35-a7ec-aa4cf3de76db)
+![3](https://github.com/user-attachments/assets/50bcfa84-7862-4400-a97b-1873ab3993b7)
+![4](https://github.com/user-attachments/assets/df572b0c-b1bd-41ef-b174-e16c778fb74f)
+![5](https://github.com/user-attachments/assets/fcca46bc-1a49-4abd-b51f-9e7957f3607a)

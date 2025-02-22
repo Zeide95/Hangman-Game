@@ -83,5 +83,5 @@ ___________
 |
 ~~~~~~~~~~~
 
-YOU LOST!, maximum limit of incorrect guesses reached.
+YOU LOST! Maximum limit of incorrect guesses reached.
 The word was: RHYTHM
